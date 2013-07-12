@@ -1,0 +1,22 @@
+{
+  "name": "docpad-plugin-shortcodes",
+  "version": "2.0.0",
+  "description": "Wordpress style shortcode tags for Docpad.",
+  "homepage": "https://github.com/field/docpad-plugin-shortcodes",
+  "keywords": [
+    "docpad",
+    "docpad-plugin",
+    "content",
+    "JSON"
+  ],
+  "author": "Marcus Wendt <marcus@field.io> (http://www.field.io)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/field/docpad-plugin-shortcodes.git"
+  },
+  "engines": {
+    "node": ">=0.8.0",
+    "docpad": ">=6.0"
+  },
+  "main": "./shortcodes.plugin.coffee"
+}
